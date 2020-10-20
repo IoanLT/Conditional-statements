@@ -1,3 +1,5 @@
+// Adding a comment
+
 let num1 = 1;
 let num2 = 7;
 let num3 = 7;
